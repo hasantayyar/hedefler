@@ -7,3 +7,7 @@
     * [Ojs](http://ojs.io) bitsin
     * Daha önce çıkmadığım kadar yüksek bir dağa tırmanış.
     * Ankara-Beypazarı yürüyüşü
+
+##Neden "açık hedefler"?
+Neden sanat?
+Burada olunca unutmuyor insan. Çok çok az da baskı oluyor üstünde. Ayrıca böylesi daha eğlenceli.
