@@ -2,7 +2,5 @@
 
 - Kitap seslendirmeye başlamış ol en azından bir demo yap. 
 - Nişan 
-    - Mekanını ayarlamış ol
-    - Kurabiyeleri seçmiş ol
-
-
+    - Mekanını ayarlanmış olsun
+    - Kurabiyeleri seçilmiş olsun
