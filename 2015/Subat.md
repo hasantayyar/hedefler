@@ -3,4 +3,5 @@
 - Kitap seslendirmeye başlamış ol en azından bir demo yap. 
 - Nişan 
     - ~~Mekanı ayarlanmış olsun~~
-    - Kurabiyeleri seçilmiş olsun
+    - ~~Kurabiyeleri seçilmiş olsun~~
+    - Prova
