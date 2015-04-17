@@ -1,6 +1,6 @@
 ##Mart 2015 Hedeflerim
 
-- ~~~~Nişan ~~
+- ~~Nişan ~~
     - ~~Nişan olmuş olsun, en geç bu ay olmuş olsun~~ Şubatta tamamlandı
     - Nişan defteri dijital taramadan geçir
 - ~~Düğün~~
