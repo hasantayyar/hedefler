@@ -15,6 +15,7 @@ Yıl bazında aylık hedeflerim o yıla ait dizin içinden erişilebilir.
     * İrem'le Ankara-Beypazarı yürüyüşü veya bisiklet yolculuğu
     * ~~Italya gezisi~~
     * Kurs bitir [Principles of Microeconomics](https://www.coursera.org/learn/principles-of-microeconomics)
+    * En azından bir ay boyunca düzenli workout. [Şurayı](http://well.blogs.nytimes.com/projects/workouts/) referans alıyorum
 
 ##Neden "açık hedefler"?
 Nedeni yok.
