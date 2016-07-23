@@ -8,6 +8,6 @@
     - ~~düğün mekanı seç~~
 - ~~Yeni Ev~~
     - ~~Yeni ev eşyalarına bakmaya başlamış ol~~
-- Kitap seslendirme için demo
-   
+- ~Kitap seslendirme için demo~~
+
 

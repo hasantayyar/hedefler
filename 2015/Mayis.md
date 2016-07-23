@@ -1,1 +1,1 @@
-- Ay sonunda balayı
+- ~~Ay sonunda balayı~

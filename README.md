@@ -1,8 +1,15 @@
-Yıllık hedeflerinmin göze çarpanlarını veya yılın herhangi bir ayında yapılabilecek hedeflerimi aşağıda grupladım. 
+Yıllık hedeflerinmin göze çarpanlarını veya yılın herhangi bir ayında yapılabilecek hedeflerimi aşağıda grupladım.
 Yıl bazında aylık hedeflerim o yıla ait dizin içinden erişilebilir.
+
+##Neden "açık hedefler"?
+Nedeni yok.
+
+Burada olunca unutmuyor insan. Ayrıca böylesi daha eğlenceli.
+
 
 #Hedeflerim
 
+* [2016](https://github.com/hasantayyar/hedefler/blob/master/2015/README.md)
 * [2015](https://github.com/hasantayyar/hedefler/blob/master/2015/README.md)
     * ~~Max Stirner kitalarının (neredeyse) tamamnı temin et~~ Türkçe çevirisi olan tek kitap oldugunu bilmiyordum. O kitabı da temin ettim.
     * ~~@tanirmus ile evlilik sürecini başarıyla tamamla (balayı, yeni evde ilk salep ve ilk kahvaltı)~~
@@ -17,7 +24,3 @@ Yıl bazında aylık hedeflerim o yıla ait dizin içinden erişilebilir.
     * Kurs bitir [Principles of Microeconomics](https://www.coursera.org/learn/principles-of-microeconomics)
     * En azından bir ay boyunca düzenli workout. [Şurayı](http://well.blogs.nytimes.com/projects/workouts/) referans alıyorum
 
-##Neden "açık hedefler"?
-Nedeni yok.
-
-Burada olunca unutmuyor insan. Ayrıca böylesi daha eğlenceli.
