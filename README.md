@@ -9,7 +9,7 @@ Burada olunca unutmuyor insan. Ayrıca böylesi daha eğlenceli.
 
 #Hedeflerim
 
-* [2016](https://github.com/hasantayyar/hedefler/blob/master/2015/README.md)
+* [2016](https://github.com/hasantayyar/hedefler/blob/master/2016/README.md)
 * [2015](https://github.com/hasantayyar/hedefler/blob/master/2015/README.md)
     * ~~Max Stirner kitalarının (neredeyse) tamamnı temin et~~ Türkçe çevirisi olan tek kitap oldugunu bilmiyordum. O kitabı da temin ettim.
     * ~~@tanirmus ile evlilik sürecini başarıyla tamamla (balayı, yeni evde ilk salep ve ilk kahvaltı)~~
