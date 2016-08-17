@@ -6,3 +6,4 @@
 - Instapaper okuma listeni hafiflet. Akşamları oku biraz.
 - Bağlama satın al.
 - Bağlama ilk dersler.
+- Mey çalışmaları.
