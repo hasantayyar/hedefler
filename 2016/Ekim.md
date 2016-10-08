@@ -1,4 +1,4 @@
-##Eylül 2016 Hedeflerim
+##Ekim 2016 Hedeflerim
 
 - Sabahları düzenli workout artık devam et. [referans](http://well.blogs.nytimes.com/projects/workouts/)
 - Cengiz Kurtoğlu ve benzerlerini keşfet.
