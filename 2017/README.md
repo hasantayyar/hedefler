@@ -2,4 +2,5 @@
 
 
 - Haftalık workout
+- Kilo ver. Hedef : 64kg
 - Bağlama öğren
